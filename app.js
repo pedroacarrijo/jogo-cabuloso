@@ -57,5 +57,5 @@ function limparCampo() {
     mensageminicial()
     document.getElementById('reiniciar').setAttribute('disabled', true)
  } 
-
+// daquele naipe 
     
