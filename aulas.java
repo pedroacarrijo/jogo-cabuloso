@@ -1,1 +1,0 @@
-printOf('Hello World')
